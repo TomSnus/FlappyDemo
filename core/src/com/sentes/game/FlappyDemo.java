@@ -10,7 +10,7 @@ import com.sentes.game.states.GameStateManager;
 import com.sentes.game.states.MenuState;
 
 public class FlappyDemo extends ApplicationAdapter {
-
+	//test
 	public static final int WIDTH = 480;
 	public static final int HEIGHT = 800;
 	public static final String TITLE = "FLAPPYBIRD";
